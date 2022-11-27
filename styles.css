@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+*{
+    background-color:lightsteelblue;
+}
+div{
+    display:inline-flexbox;
+    justify-content: space-between;
+}
